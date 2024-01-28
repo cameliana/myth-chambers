@@ -3,7 +3,7 @@
 
 body {
     background-color: black;
-    background-image: url("pictures/locks.jpg");
+    background-image: url("locks.jpg");
     background-size: 100%; 
     background-repeat: no-repeat;
     letter-spacing: 0.7px;
@@ -143,12 +143,12 @@ input[type="password"] {
 .form-buttons button {
 	margin: 0 10px;
 	/* background-color: #ffd700; */
-    background-color: black;
+	background-color: black;
 	font-family: "Cinzel Decorative", sans-serif;
-    font-weight: bolder;
+	font-weight: bolder;
 	font-size: 16px;
 	padding: 10px 20px;
-    color: #ffd700;
+	color: #ffd700;
 }
 
 .logInIcon {
