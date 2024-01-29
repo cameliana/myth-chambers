@@ -111,12 +111,12 @@ body {
 	margin-bottom: 10px;
 	font-size: 60px;
 	font-family: "Cinzel Decorative", sans-serif;
-    margin-bottom: 10px;
+    	margin-bottom: 10px;
 }
 
 .banner p {
 	text-align: center;
-	color: #8B0000;
+	color: #370303;
 	margin-bottom: 20px;
 	font-family: 'Maitree', serif;
 	font-size: 20px;
@@ -164,7 +164,7 @@ body {
 .right-panel p {
     font-size: 16px;
     font-family: 'Maitree', serif;
-    color: #8B0000;
+    color: #370303;
 }
 
 .start-btn {
@@ -309,7 +309,7 @@ body {
     align-items: center; 
     text-align: center;
     width: 100%;
-    color: #8B0000;
+    color: #370303;
     font-family: 'Maitree', serif;
     font-size: 12px;
     margin-top: 50px;
@@ -324,7 +324,7 @@ body {
 .social, p {
     display: inline-block;
     margin: 0 10px;
-    color: #8B0000;
+    color: #370303;
     text-decoration: none;
     font-weight: bold;
 }
